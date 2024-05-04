@@ -1,0 +1,11 @@
+# Ignore everything
+*
+
+# But not this directory
+!/
+
+# And not .gitignore file (to track the file itself)
+!.gitignore
+
+# And not notebook.ipynb
+!notebook.ipynb
